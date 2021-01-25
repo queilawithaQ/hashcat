@@ -246,6 +246,7 @@ NVIDIA GPUs require "NVIDIA Driver" (440.64 or later) and "CUDA Toolkit" (9.0 or
 - AES Crypt (SHA256)
 - BitLocker
 - eCryptfs
+- Linux Kernel Crypto API (2.4)
 - LUKS
 - VeraCrypt
 - FileVault 2
